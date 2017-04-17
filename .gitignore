@@ -1,0 +1,14 @@
+/.idea
+*.iml
+/.settings
+/bin
+/gen
+/build
+/gradle
+/classes
+.classpath
+.project
+*.gradle
+*.bat
+gradlew
+local.properties
